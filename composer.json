@@ -1,0 +1,20 @@
+{
+    "name": "toddmcbrearty/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "Todd Mc Brearty",
+            "email": "todd@elygen.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Toddmcbrearty\\Commander": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
